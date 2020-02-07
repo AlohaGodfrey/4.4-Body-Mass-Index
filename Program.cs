@@ -13,7 +13,7 @@ namespace _4._4_Body_Mass_Index
         /// Independent Task 4.4
         /// Uses a BMI class to calculate the BMI value for each patient
         /// Displays the results and can work with data entered using the 
-        /// imperial or metric system
+        /// imperial or metric systems
         /// 
         /// For Independent Study Task 4.4
         /// Author: Godfrey
